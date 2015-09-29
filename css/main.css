@@ -59,6 +59,14 @@ body {
   position: absolute;
   z-index: 10;
   top: 167px;
-  left: 570px;
+  left: 520px;
+}
+
+.how-to {
+	padding-top: 3em;
+	color: #EB1040;
+	font-family: 'Orbitron', sans-serif;
+	
+
 }
 
